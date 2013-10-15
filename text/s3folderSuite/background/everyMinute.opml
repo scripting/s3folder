@@ -1,1 +1,1 @@
-on everyMinute () {	ÇChanges		Ç10/14/13; 2:49:03 PM by DW			ÇCreated. 	local (adrdata = s3folderSuite.init ());	adrdata^.stats.ctMinutes++};bundle { //test code	everyMinute ()}
+on everyMinute () {	trueChanges		true10/14/13; 2:49:03 PM by DW			trueCreated. 	local (adrdata = s3folderSuite.init ());	adrdata^.stats.ctMinutes++};bundle { //test code	everyMinute ()}

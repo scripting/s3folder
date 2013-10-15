@@ -1,1 +1,1 @@
-ÇChanges	Ç10/14/13; 2:49:03 PM by DW		ÇCreated. loop {	s3folderSuite.init ();	s3folderThread.ct++;	s3folderSuite.watchFolder ();	thread.sleepSweet (10)}
+trueChanges	true10/14/13; 2:49:03 PM by DW		trueCreated. loop {	s3folderSuite.init ();	s3folderThread.ct++;	s3folderSuite.watchFolder ();	thread.sleepSweet (10)}
