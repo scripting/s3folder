@@ -1,1 +1,1 @@
-on index () {	trueChanges		true10/14/13; 2:49:03 PM by DW			trueCreated.	local (pta = html.getpagetableaddress ());	pta^.title = "Home";	return (s3folderSuite.main ())};bundle { //test code	index ()}
+on index () {	//Changes		//10/14/13; 2:49:03 PM by DW			//Created.	local (pta = html.getpagetableaddress ());	pta^.title = "Home";	return (s3folderSuite.main ())};bundle { //test code	index ()}

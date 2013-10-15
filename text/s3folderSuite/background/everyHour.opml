@@ -1,1 +1,1 @@
-on everyHour () {	trueChanges		true10/14/13; 2:49:03 PM by DW			trueCreated. 	local (adrdata = s3folderSuite.init ())};bundle { //test code	everyHour ()}
+on everyHour () {	//Changes		//10/14/13; 2:49:03 PM by DW			//Created. 	local (adrdata = s3folderSuite.init ())};bundle { //test code	everyHour ()}
